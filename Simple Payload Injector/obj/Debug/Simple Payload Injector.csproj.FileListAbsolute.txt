@@ -1,0 +1,10 @@
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\bin\Debug\Simple Payload Injector.exe.config
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\bin\Debug\Simple Payload Injector.exe
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\bin\Debug\Simple Payload Injector.pdb
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple Payload Injector.csprojAssemblyReference.cache
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple_Payload_Injector.Form1.resources
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple_Payload_Injector.Properties.Resources.resources
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple Payload Injector.csproj.GenerateResource.cache
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple Payload Injector.csproj.CoreCompileInputs.cache
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple Payload Injector.exe
+C:\Users\Naim\source\repos\Simple Payload Injector\Simple Payload Injector\obj\Debug\Simple Payload Injector.pdb
